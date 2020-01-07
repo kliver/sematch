@@ -43,6 +43,6 @@ setup(name = 'sematch',
                      'Operating System :: OS Independent',
                      'Programming Language :: Python :: 2.7',
                      'Topic :: Software Development :: Libraries'],
-      install_requires=['numpy==1.11.0','scipy==0.13.2','scikit-learn==0.17.1','networkx==1.11',
-                        'nltk==3.2','rdflib==4.0.1','SPARQLWrapper==1.5.2'],
+      install_requires=['numpy==1.18.1','scipy==1.4.1','scikit-learn==0.22.1','networkx==2.4',
+                        'nltk==3.4.5','rdflib==4.2.2','SPARQLWrapper==1.8.5'],
       )
